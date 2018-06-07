@@ -1,0 +1,44 @@
+# Created by .ignore support plugin (hsz.mobi)
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+### Maven template
+*target/
+
+*.idea
+*.iml
+
+output
+
+log
+*.log
+logs
+
+app.pid
+
+### Eclipse ###
+target/
+logs/
+*.pid
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+*.DS_Store
+
+mtn-core-api/docs/asciidoc/src/
+
+mtn-core-api/src/asciidoc/
